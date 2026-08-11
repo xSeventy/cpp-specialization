@@ -15,6 +15,7 @@
 
 ## Input and Output
 
+```
 madam
 true
 
