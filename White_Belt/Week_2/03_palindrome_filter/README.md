@@ -15,7 +15,7 @@
 
 ## Input and Output
 
-
+```
 abacaba, aba
 5
 
