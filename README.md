@@ -1,7 +1,7 @@
 # Modern C++ Development
 
 <p align="center">
-  <img src="img.jpg" alt="Modern C++ Development" width="700">
+  <img src="img.jpg" alt="Modern C++ Development" width="100%">
 </p>
 
 Solutions to programming assignments from the **Modern C++ Development** specialization.
