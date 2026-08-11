@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# C++ build artifacts
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
