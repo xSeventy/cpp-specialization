@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std::chrono;
+using namespace std::chrono;     // не очень
 
 class LogDuration {
 public:
